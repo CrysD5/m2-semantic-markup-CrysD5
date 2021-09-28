@@ -1,0 +1,97 @@
+﻿h1 {
+    text-align: center;    
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    animation: blur .75s ease-out infinite;
+    text-shadow: 0px 0px 5px #fff, 0px 0px 7px #fff;
+}
+
+@keyframes blur {
+    from {
+        text-shadow: 0px 0px 10px #fff, 0px 0px 10px #fff, 0px 0px 25px #fff, 0px 0px 25px #fff, 0px 0px 25px #fff, 0px 0px 25px #fff, 0px 0px 25px #fff, 0px 0px 25px #fff, 0px 0px 50px #fff, 0px 0px 50px #fff, 0px 0px 50px #7B96B8, 0px 0px 150px #7B96B8, 0px 10px 100px #7B96B8, 0px 10px 100px #7B96B8, 0px 10px 100px #7B96B8, 0px 10px 100px #7B96B8, 0px -10px 100px #7B96B8, 0px -10px 100px #7B96B8;
+    }
+}
+
+
+body {
+    background-color: #D9FBFE;
+    color: #011f4b;
+}
+
+h1, p {
+    color: #011f4b;
+}
+
+.small {
+    font-size:smaller;
+    }
+/*
+  
+*/
+.last {
+    color: greenyellow;
+    }
+
+.separation {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#separation {    
+    text-shadow: 2px 2px 5px #01444b;
+}
+
+
+.links {
+    color: orange;
+}
+
+#links {
+    color:yellow;
+}
+
+
+.uList {
+    position: relative;
+    right: 0px;
+    border-top: 3px solid #99ffcc;
+    border-right: 3px double #99ffff;
+    border-bottom: 3px dotted #cc99ff;
+    border-left: 5px groove #ffcc99;
+    text-align: center;
+    color: #4b011f;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+.oList {
+    position: relative;
+    right: 0px;
+    border-top: 3px solid #99ffcc;
+    border-right: 5px groove #ffcc99;
+    border-bottom: 3px dotted #cc99ff;
+    border-left: 3px double #99ffff;    
+    color: #4b011f;
+}
+
+
+ol 
+{
+    list-style-type: lower-greek;
+}
+
+#cat{
+    color:dimgrey
+}
+
+.cat{
+    text-align: center;
+}
+
+.dog{
+    text-align:right;
+}
+

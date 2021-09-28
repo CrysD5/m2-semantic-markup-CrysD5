@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SemanticMarkup", "SemanticMarkup\", "{4C36B5F2-FB55-4B53-956F-1DC73EE7D0D9}"
 	ProjectSection(WebsiteProperties) = preProject
